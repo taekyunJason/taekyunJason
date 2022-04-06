@@ -13,7 +13,7 @@ Platforms & Languages
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <br>
 👉🏻  saurus234@gmail.com
 
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) <br>
+![Blogger](https://img.shields.io/badge/Blogger-%230769AD?style=for-the-badge&logo=blogger&logoColor=white) <br>
 👉🏻  https://dev-coderkim.tistory.com
 
 
