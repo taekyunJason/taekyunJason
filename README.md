@@ -30,7 +30,7 @@
 <h2>📚 My pages</h2>
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) <br>
-👉🏻  
+👉🏻  https://www.notion.so/Jason-3a909ef23ec947df982cf4dd3f7fb61c
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <br>
 👉🏻  saurus234@gmail.com
